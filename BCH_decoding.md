@@ -1,5 +1,7 @@
 # Декодирование кодов БЧХ
 
+[![hackmd-github-sync-badge](https://hackmd.io/W8KIo-z2QX-abC950DT4BA/badge)](https://hackmd.io/W8KIo-z2QX-abC950DT4BA)
+
 ## Код Рида-Соломона над $GF(11)$
 :::info
 Вычисления в поле --- по модулю 11.
