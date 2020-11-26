@@ -1,4 +1,5 @@
 # Декодирование кодов БЧХ
+###### tags: `git`
 
 [![hackmd-github-sync-badge](https://hackmd.io/W8KIo-z2QX-abC950DT4BA/badge)](https://hackmd.io/W8KIo-z2QX-abC950DT4BA)
 
