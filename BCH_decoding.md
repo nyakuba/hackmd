@@ -160,12 +160,12 @@ $$
 $$
 \Delta_i = S_i + \sum_{j=1}^{L^{(i-1)}}\Lambda_j^{(i-1)}S_{i-j},
 $$
-причем $\Delta_0 = 0$.
+причем $\Delta_0 = 1$.
 Тогда регистр сдвига с многочленом связей
 $$
-\Lambda^{(r)} = \begin{cases}
-  \Lambda^{(r-1)}, & \text{ если } \Delta_r = 0\\
-  \Lambda^{(r-1)} - \frac{\Delta_r}{\Delta_m}x^{r-m}\Lambda^{(m-1)}(x), & \text{ если } \Delta_r \neq 0
+\Lambda^{(r)}(x) = \begin{cases}
+  \Lambda^{(r-1)}(x), & \text{ если } \Delta_r = 0\\
+  \Lambda^{(r-1)}(x) - \frac{\Delta_r}{\Delta_m}x^{r-m}\Lambda^{(m-1)}(x), & \text{ если } \Delta_r \neq 0
 \end{cases}
 $$
 порождает $S_1, S_2, \dots, S_r$, где $m < r$ --- наибольшее число такое, что $L^{(m-1)} < L^{(m)}$.
