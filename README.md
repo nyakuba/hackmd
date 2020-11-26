@@ -1,4 +1,5 @@
 # HackMD notes
+###### tags: `git`
 
 [![hackmd-github-sync-badge](https://hackmd.io/4lwptBqETtyE3PC3SqaRjg/badge)](https://hackmd.io/4lwptBqETtyE3PC3SqaRjg)
 
